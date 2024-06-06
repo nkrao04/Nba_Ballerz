@@ -32,3 +32,5 @@ for y in years:
 
 print(f'Process Complete! Total run time: {round((time.time() - begin_loop) / 60, 2)} minutes')
 df.to_excel('nba_player_data.xlsx', index=False)
+
+print('bruh')
