@@ -1,0 +1,1 @@
+I want to find the most consistant stat for each NBA player. This would come from getting the SD for each stat (points, assist, etc) and finding the one with the smallest standard deviation.
